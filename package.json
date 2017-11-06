@@ -1,0 +1,22 @@
+{
+  "name": "react-native-triple-state-switch",
+  "version": "1.0.0",
+  "description": "Triple State Switch in Reach-Native",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kiok46/react-native-triple-state-switch.git"
+  },
+  "keywords": [
+    "react-native"
+  ],
+  "author": "Kuldeep Singh (kiok46)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kiok46/react-native-triple-state-switch/issues"
+  },
+  "homepage": "https://github.com/kiok46/react-native-triple-state-switch#readme"
+}
